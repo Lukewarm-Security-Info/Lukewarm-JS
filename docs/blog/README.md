@@ -1,3 +1,5 @@
+![A Lukewarm Guide to: Javascript](https://lukewarmsecurityinfo.com/content/images/size/w960/2023/10/A-Lukewarm-Guide-to-Javascript.png)
+
 A Lukewarm Guide to: JavaScript
 ===============================
 
