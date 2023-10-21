@@ -1,11 +1,5 @@
----
-title: "A Lukewarm Guide to: JavaScript"
-slug: a-lukewarm-guide-to-javascript
-date_published: 2023-10-23T21:00:41.000Z
-date_updated: 2023-10-21T01:20:46.000Z
-tags: Javascript, Github, Lukewarm Guide, A Lukewarm Guide to Javascript
-excerpt: This post marks the beginning of a journey into learning JavaScript, and creating a simple web-scraper tool that gathers contact information of all users found on a given website.
----
+A Lukewarm Guide to: JavaScript
+===============================
 
 JavaScript is one of those coding languages that is used almost everywhere, usually without us realising. When you load this page, JavaScript is being used 'under the hood' to render the content (unless you've got it turned off) - this is known as dynamic content.
 
